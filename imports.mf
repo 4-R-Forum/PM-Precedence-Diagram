@@ -1,0 +1,3 @@
+﻿<imports>
+ <package name='PrecDiag2' path='PrecDiag2\Import\' />
+</imports>

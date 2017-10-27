@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="Report" id="1D6A0D9D8DFC4D4ABFCA93CA9AE924E9" action="add">
+  <location>client</location>
+  <method keyed_name="ShowPrecDiag2" type="Method">
+   <Item type="Method" action="get" select="id">
+    <name>ShowPrecDiag2</name>
+   </Item>
+  </method>
+  <name>precDiag2</name>
+  <report_query><![CDATA[<!-- Query defined by Method -->]]></report_query>
+  <target>none</target>
+  <type>item</type>
+ </Item>
+</AML>
